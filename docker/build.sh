@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set default values for optional arguments
-start_port=30000
+start_port=10001
 use_random_auth=false
 backconnect_proxies_file="default"
 # Log file for script execution
